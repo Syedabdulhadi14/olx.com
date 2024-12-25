@@ -1,0 +1,137 @@
+/* navbar start */
+.PAKISTAN {
+  width: 300px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 1px;
+}
+.find {
+  width: 600px;
+  height: 40px;
+  border-radius: 1px;
+}
+.Login {
+  display: flex;
+  margin-left: 50px;
+  text-align: center;
+  color: #000;
+  margin-right: 50px;
+  margin-top: 10px;
+  font-size: 18px;
+}
+.Login:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.SELL {
+  font-weight: 500;
+  position: relative;
+  right: 90px;
+  top: 11px;
+}
+
+/* navbar end */
+
+/* main start */
+.all {
+  font-size: 20px;
+  font-weight: 400;
+}
+.container {
+  gap: 20px;
+  /* margin-top: 10px; */
+}
+.mobile {
+  margin-top: 6px;
+  color: #000;
+  text-decoration: none;
+}
+.collora-slider {
+  width: 1100px;
+  margin-bottom: 80px;
+}
+.f1 {
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.f2 {
+  gap: 20px;
+  margin-bottom: 60px;
+}
+.M1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.m2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.m3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.m4 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.m5 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.m6 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.m7 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+/* main end */
+/* footer start */
+.footer {
+  margin-top: 100px;
+  background-color: #ebeeef;
+}
+.try {
+  margin-top: 20px;
+
+  margin-left: 30px;
+}
+.the {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.hr1 {
+  background-color: #000;
+  width: 2px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.get {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+.appstore {
+  height: 40px;
+  margin-top: 60px;
+  margin-right: 300px;
+}
+.playstore {
+  height: 40px;
+  margin-top: 60px;
+position: relative;
+right:290px;
+
+}
+/* footer end */
+/* foooter 2start */
+.footer2{
+    background-color: #EBEEEF;
+}
+.list{
+  justify-content: space-between;
+  margin-top: 40px;
+}
+/* foooter 2 end */
